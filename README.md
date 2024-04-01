@@ -2,7 +2,7 @@
 <a href="mailto:cjsdlf44@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/cjsdlf44@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="https://velog.io/@yukihira/posts" target="_blank" rel="noopener nofollow"><img src="https://img.shields.io/badge/BLOG-20C997?style=flat&logo=velog&logoColor=white"/></a>
 
-Hi there I'm looking for a job 🌱
+### Hi there I'm looking for a job 🌱
 
 <!--
 **Hira-Yuki/Hira-Yuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

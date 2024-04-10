@@ -5,7 +5,8 @@
 
 ### Hi there I'm looking for a job 🌱
 
-개발이라는 도구로 인생을 더욱 풍요롭게 만들기 위해 노력하고 있습니다. 여러분과 함께 지식 공유를 통해 함께 성장하고자 합니다. 함께 코드의 마법을 탐험해보시겠어요?
+개발이라는 도구로 인생을 더욱 풍요롭게 만들기 위해 노력하고 있습니다. 
+여러분과 함께 지식 공유를 통해 함께 성장하고자 합니다. 함께 코드의 마법을 탐험해보시겠어요?
 
 <!--
 **Hira-Yuki/Hira-Yuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -34,6 +34,10 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/></a>
 
+![fiore's GitHub stats](https://github-readme-stats.vercel.app/api?username=fioreflower&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FioreFlower&layout=compact)
-![fiore's GitHub stats](https://github-readme-stats.vercel.app/api?username=fioreflower&show_icons=true&theme=nord)
+
+[![fiore's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fioreflower&hide=python,hlsl,shaderlab)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+[![fiore's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fioreflower&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+-->

@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 
 ![fiore's GitHub stats](https://github-readme-stats.vercel.app/api?username=fioreflower&show_icons=true&theme=nord)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fioreflower&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FioreFlower&layout=compact)

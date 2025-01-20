@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Hit Count
+![:GithubProfile](https://count.getloli.com/get/@:GithubProfile)
+
 ### 💪 Skills
 #### Platforms and Languages
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>

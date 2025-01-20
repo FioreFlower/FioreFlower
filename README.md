@@ -31,11 +31,13 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Next.js-ffffff?style=flat&logo=nextdotjs&logoColor=000000"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Sharp-4E3188?style=flat&logo=c&logoColor=white"/></a>
+
 
 #### Tools
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/></a>
-
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Unity-ffffff?style=flat&logo=unity&logoColor=000000"/></a>
 
 
 ![fiore's GitHub stats](https://github-readme-stats.vercel.app/api?username=fioreflower&show_icons=true&theme=dracula)

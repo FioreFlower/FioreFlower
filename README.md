@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 
 
 ### Hit Count
-![:GithubProfile](https://count.getloli.com/get/@:GithubProfile)
+![:GithubProfile](https://count.getloli.com/get/@:GithubProfile?theme=nixietube-1)

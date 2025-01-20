@@ -6,7 +6,7 @@
 <a href="https://velog.io/@yukihira/posts" target="_blank" rel="noopener nofollow"><img src="https://img.shields.io/badge/VELOG-20C997?style=flat&logo=velog&logoColor=white"/></a>
 
 <!--
-**Hira-Yuki/Hira-Yuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**FioreFlower/FioreFlower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 [![fiore's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fioreflower&hide=python,hlsl,shaderlab)](https://github.com/anuraghazra/github-readme-stats)
 <!--
-
+ // Repo Card 
 [![fiore's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fioreflower&repo=<My repo name>)](<My repo URL>)
 
 <a href="<My repo URL>">

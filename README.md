@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=FioreFlower&desc=Thank%20you%20for%20visit&&animation=fadeIn&fontSize=70&rotate=20&fontAlignY=30&fontAlign=70&descAlign=70&descAlignY=44)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Thank+you+for+visit.;Have+a+good+day.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&width=435&lines=Thank+you+for+visit.;Have+a+good+day.)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/jinyeong-yun-1b995317a/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/JinyeongYun-0A66C2?style=flat&logo=linkedin&logoColor=#0A66C2"/></a>
 <a href="mailto:cjsdlf44@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/cjsdlf44@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>

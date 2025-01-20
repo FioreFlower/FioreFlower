@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=FioreFlower&desc=Thank%20you%20for%20visit&&animation=fadeIn&fontSize=70&rotate=20&fontAlignY=30&fontAlign=70&descAlign=70&descAlignY=44)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&width=435&lines=Thank+you+for+visit.;Have+a+good+day.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&center=true&multiline=true&vCenter=true&pause=500&width=870&height=90&lines=Thank+you+for+visit.;Have+a+good+day.)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/jinyeong-yun-1b995317a/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/JinyeongYun-0A66C2?style=flat&logo=linkedin&logoColor=#0A66C2"/></a>
 <a href="https://velog.io/@yukihira/posts" target="_blank" rel="noopener nofollow"><img src="https://img.shields.io/badge/VELOG-20C997?style=flat&logo=velog&logoColor=white"/></a>

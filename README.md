@@ -60,4 +60,4 @@ Here are some ideas to get you started:
 
 ### Hit Count
 
-![:fioregit](https://grape-plain-editorial.glitch.me/@:fioregit?theme=sketch-1&scale=1.5&align=center&padding=9&pixelated=0)
+![:fioregit](https://grape-plain-editorial.glitch.me/@:fioregit?theme=3d-num&scale=1.5&align=center&padding=9&pixelated=0)

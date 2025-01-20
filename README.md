@@ -60,4 +60,5 @@ Here are some ideas to get you started:
 
 ### Hit Count
 ![:GithubProfile](https://count.getloli.com/get/@:GithubProfile?theme=normal-1)
-![:githubprofile](https://grape-plain-editorial.glitch.me/@githubprofile?name=githubprofile&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
+![:githubprofile](https://grape-plain-editorial.glitch.me/@:githubprofile&theme=booru-lewd)

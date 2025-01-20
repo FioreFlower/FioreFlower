@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hit Count
-![:GithubProfile](https://count.getloli.com/get/@:GithubProfile)
 
 ### 💪 Skills
 #### Platforms and Languages
@@ -58,3 +56,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fioreflower&repo=<My repo name>" />
 </a>
 -->
+
+
+### Hit Count
+![:GithubProfile](https://count.getloli.com/get/@:GithubProfile)

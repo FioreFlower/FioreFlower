@@ -60,4 +60,4 @@ Here are some ideas to get you started:
 
 ### Hit Count
 
-![:githubprofile](https://grape-plain-editorial.glitch.me/@:githubprofile&theme=original-new)
+![:index](https://grape-plain-editorial.glitch.me/@:index&theme=original-new)
